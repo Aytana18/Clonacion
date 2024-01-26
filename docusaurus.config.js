@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentación Chat Buho',
+  title: 'Hola Aytana',
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://documentacion.chat.buho.la',
-  // Set the /<baseUrl>/ pathname under which your site is served
+  // Set the /<baseUrl>/ pathname under which your site is serveds
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
   organizationName: 'chatbuho',
   projectName: 'documentacion',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'gh-pages', 
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
