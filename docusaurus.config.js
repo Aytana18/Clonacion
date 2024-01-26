@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   organizationName: 'chatbuho',
   projectName: 'documentacion',
-  deploymentBranch: 'gh-pages', 
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/buho.jpg',
       navbar: {
         title: '',
         logo: {
