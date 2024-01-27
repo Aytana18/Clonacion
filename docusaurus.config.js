@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Nuevo Logo',
-          src: 'https://www.vecteezy.com/free-vector/mini-logo.png', 
+          src: 'img/buho.png',
         },
         items: [
           // {
