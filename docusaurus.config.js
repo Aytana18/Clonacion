@@ -58,12 +58,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/buho.jpg',
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '',
         logo: {
-          alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          alt: 'Nuevo Logo',
+          src: 'https://www.vecteezy.com/free-vector/mini-logo.png', 
         },
         items: [
           // {
